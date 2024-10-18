@@ -93,7 +93,7 @@ pip install ".[dartmouth]"
 
 To run the app using Streamlit, follow these steps:
 
-1. Ensure your virtual environment is activated.
+1. Follow the installation steps and ensure your virtual environment is activated.
 
 2. Run the Streamlit app from the `highlight` directory:
     ```bash
